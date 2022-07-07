@@ -1,0 +1,1 @@
+{"gameName":"Rubik","storeLink":"https://play.google.com/store/apps/details?id=org.distorted.magic&hl=en&gl=US","imageUrls":["https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png"]}
